@@ -24,3 +24,11 @@ ___
 ___
 <h1>II Marks software installed within the past 90 days.</h1>
 <img src="assets/Screenshot (207).png" alt="demo image">
+
+___
+<h1>Updated Software</h1>
+<img src="assets/Updated.png" alt="demo image">
+
+___
+<h1> Deleted Software</h1>
+<img src="assets/deleted.png" alt="demo image">
